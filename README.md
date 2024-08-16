@@ -1,4 +1,4 @@
-# Github Actions for liferay-frontent
+# Github Actions for liferay-frontend
 
 ## Workflows
 ### [Sync liferay-portal fork](https://github.com/liferay-frontend/github-actions/blob/master/.github/workflows/sync-liferay-portal.yml)
